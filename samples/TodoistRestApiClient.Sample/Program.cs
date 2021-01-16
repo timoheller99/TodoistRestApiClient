@@ -1,10 +1,10 @@
-﻿using System;
-
-namespace TodoistRestApiClient.Sample.Sample
+﻿namespace TodoistRestApiClient.Sample
 {
-    class Program
+    using System;
+
+    internal sealed class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
         }

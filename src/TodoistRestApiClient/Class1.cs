@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace TodoistRestApiClient
+﻿namespace TodoistRestApiClient
 {
     public class Class1
     {

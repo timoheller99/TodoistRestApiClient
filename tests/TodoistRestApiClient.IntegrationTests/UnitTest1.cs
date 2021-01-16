@@ -1,14 +1,12 @@
-using System;
-using Xunit;
-
 namespace TodoistRestApiClient.IntegrationTests
 {
+    using Xunit;
+
     public class UnitTest1
     {
         [Fact]
         public void Test1()
         {
-
         }
     }
 }

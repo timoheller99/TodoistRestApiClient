@@ -18,4 +18,10 @@
     <NoWarn>NU5105</NoWarn>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Meziantou.Analyzer" />
+    <PackageReference Include="Microsoft.VisualStudio.Threading.Analyzers" />
+    <PackageReference Include="StyleCop.Analyzers" />
+  </ItemGroup>
+
 </Project>
